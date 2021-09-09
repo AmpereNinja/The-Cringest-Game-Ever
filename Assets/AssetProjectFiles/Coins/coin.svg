@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1102"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="coin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1104"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.58083614"
+     inkscape:cx="352.07864"
+     inkscape:cy="86.943626"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1099" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#dea90b;stroke:#f8d776;stroke-width:20;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path1346"
+       sodipodi:type="arc"
+       sodipodi:cx="56.029148"
+       sodipodi:cy="56.712421"
+       sodipodi:rx="40"
+       sodipodi:ry="40"
+       sodipodi:start="0"
+       sodipodi:end="6.2130231"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 96.029148,56.712421 A 40,40 0 0 1 56.730734,96.706268 40,40 0 0 1 16.053759,58.115378 40,40 0 0 1 53.925252,16.767789 40,40 0 0 1 95.930734,53.908234" />
+    <rect
+       style="fill:#f8d776;fill-opacity:1;stroke:#f8d776;stroke-width:10.2755;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3788"
+       width="49.095097"
+       height="4.7794986"
+       x="31.59547"
+       y="56.779171"
+       ry="0"
+       rx="0" />
+  </g>
+</svg>

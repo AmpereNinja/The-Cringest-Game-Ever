@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="health.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-nodes="true"
+     width="10mm"
+     inkscape:zoom="0.58083614"
+     inkscape:cx="686.0799"
+     inkscape:cy="503.58437"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#e0010c;fill-opacity:1;stroke:#000000;stroke-width:1.2174;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 58.351032,137.30337 10.372126,72.95062 38.861607,40.893585 C 54.530822,23.262215 67.661944,8.5082303 68.041881,8.1069553 L 68.732673,7.3773588 87.020266,27.694345 c 10.058175,11.174344 18.476614,20.271896 18.707644,20.216789 0.23106,-0.05511 8.72324,-8.912617 18.87154,-19.683344 10.14828,-10.770724 18.55359,-19.4674885 18.67845,-19.3261375 0.12483,0.1413484 13.16794,14.8112885 28.98468,32.5998655 15.81671,17.788578 28.77389,32.522731 28.79373,32.742566 0.0286,0.317939 -92.91177,125.422336 -94.34034,126.988736 -0.30855,0.33834 -10.016177,-12.49333 -48.364938,-63.92945 z"
+       id="path25724" />
+  </g>
+</svg>
