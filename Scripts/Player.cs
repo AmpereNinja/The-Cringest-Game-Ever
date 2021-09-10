@@ -3,11 +3,11 @@ using System;
 
 public class Player : KinematicBody2D
 {
-	private float speed = 2000f;
-	private float gravity = 20f;
+	private float speed = 1000f;
+	private float gravity = 10f;
 	private Vector2 movement;
 	private Vector2 up_dir = Vector2.Up;
-	private float jumpForce = -2000f;
+	private float jumpForce = -1000f;
 	public override void _PhysicsProcess(float delta)
 	{
 		PlayerMovement();
