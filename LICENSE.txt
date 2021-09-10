@@ -18,4 +18,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The author may provide you with services and fixes to your need but doesn't come with any warranty. Do this at your own risk.
+You are allowed to use this project and make a copy and use your own license
+ including Proprietery. This software doesn't come with any warranty so you will
+ be reponsible for any data loss or any personal or commercial loss.
