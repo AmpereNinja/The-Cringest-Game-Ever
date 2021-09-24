@@ -1,0 +1,9 @@
+E:\Github Repositories\game\.mono\temp\bin\ExportDebug\Game.dll
+E:\Github Repositories\game\.mono\temp\bin\ExportDebug\Game.pdb
+E:\Github Repositories\game\.mono\temp\obj\ExportDebug\Game.csproj.AssemblyReference.cache
+E:\Github Repositories\game\.mono\temp\obj\ExportDebug\Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Repositories\game\.mono\temp\obj\ExportDebug\Game.AssemblyInfoInputs.cache
+E:\Github Repositories\game\.mono\temp\obj\ExportDebug\Game.AssemblyInfo.cs
+E:\Github Repositories\game\.mono\temp\obj\ExportDebug\Game.csproj.CoreCompileInputs.cache
+E:\Github Repositories\game\.mono\temp\obj\ExportDebug\Game.dll
+E:\Github Repositories\game\.mono\temp\obj\ExportDebug\Game.pdb
